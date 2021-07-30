@@ -19,7 +19,11 @@ body {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #ffb400;
+  background-color: #202529;
+}
+
+.section.holding {
+  background-color: #202529;
 }
 
 .image {
